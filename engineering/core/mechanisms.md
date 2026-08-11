@@ -13,7 +13,7 @@
 * **teeth**: the protruding edges around the circumference of a gear that mesh with the teeth of another gear to transmit motion and torque.
 
 ## types of motion
-* insert image
+* ![](../../.gitbook/assets/mechanisms1.png)
 
 ## torque
 * torque is rotational equivalent of force
