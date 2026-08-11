@@ -2,12 +2,14 @@
 
 * [index](README.md)
 * [physics](physics/README.md)
+
   * [motion and forces](physics/motion-and-forces.md)
   * [circular motion](physics/circular-motion.md)
   * [gravity](physics/gravity.md)
   * [electromagnetism](physics/electromagnetism.md)
   * [revolutions in modern physics](physics/revolutions-in-modern-physics.md)
 * [chemistry](chemistry/README.md)
+
   * [equilibria](chemistry/equilibria.md)
   * [acids and bases](chemistry/acids-and-bases.md)
   * [volumetric analysis](chemistry/volumetric-analysis.md)
@@ -15,21 +17,25 @@
   * [organic](chemistry/organic.md)
   * [industrial processes](chemistry/industrial-processes.md)
 * [specialist](specialist/README.md)
+
   * [complex numbers](specialist/complex-numbers.md)
   * [functions](specialist/functions.md)
   * [vectors](specialist/vectors.md)
   * [calculus](specialist/calculus.md)
   * [sample means](specialist/sample-means.md)
-* [methods](methods/README.md)
 * [engineering](engineering/README.md)
+
   * [core](engineering/core/README.md)
+
     * [life cycle and obsolescence](engineering/core/life-cycle-and-obsolescence.md)
     * [engineering design process](engineering/core/engineering-design-process.md)
     * [materials](engineering/core/materials.md)
     * [mechanisms](engineering/core/mechanisms.md)
+    * [types of mechanisms](engineering/core/types-of-mechanisms.md)
     * [engineering drawings](engineering/core/engineering-drawings.md)
     * [energy](engineering/core/energy.md)
   * [electrical](engineering/electrical/README.md)
+
     * [basic circuits](engineering/electrical/basic-circuits.md)
     * [passive components](engineering/electrical/passive-components.md)
     * [voltage dividers and regulators](engineering/electrical/voltage-dividers-and-regulators.md)
@@ -37,13 +43,16 @@
     * [semiconductors](engineering/electrical/semiconductors.md)
     * [motors](engineering/electrical/motors.md)
   * [systems and control](engineering/systems-and-control/README.md)
+
     * [diagrams](engineering/systems-and-control/diagrams.md)
     * [flowcharts](engineering/systems-and-control/flowcharts.md)
     * [microcontrollers](engineering/systems-and-control/microcontrollers.md)
     * [interfacing circuits](engineering/systems-and-control/interfacing-circuits.md)
 * [literature](literature/README.md)
+
   * [equus](literature/equus.md)
   * [o me! o life!](literature/o-me-o-life.md)
   * [the fountainhead](literature/the-fountainhead.md)
   * [close reading](literature/close-reading.md)
   * [time management](literature/time-management.md)
+
