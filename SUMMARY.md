@@ -23,6 +23,7 @@
   * [vectors](specialist/vectors.md)
   * [calculus](specialist/calculus.md)
   * [sample means](specialist/sample-means.md)
+* [methods](methods/README.md)
 * [engineering](engineering/README.md)
 
   * [core](engineering/core/README.md)
