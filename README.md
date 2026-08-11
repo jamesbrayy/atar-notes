@@ -2,14 +2,11 @@
 
 ***
 
-https://jamesbrayy.gitbook.io/atar/
+centralised reference for Y12 ATAR:
 
-contains all the stuff you probably forgot.
-
-centralised reference for:
-
-* spec
-* physics
-* chem
-* engineering studies
-* literature
+* physics,
+* chemistry,
+* specialist,
+* methods,
+* engineering studies,
+* and literature.
