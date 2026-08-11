@@ -50,7 +50,7 @@
 	* $$\text{distance}=\text{n}_{starts} \text{pitch} \text{revolutions}$$
 	* ![](../../.gitbook/assets/types4.png)
 * **multiple start:**
-	* used in high*speed cnc machines and actuators where faster motion is needed compared to single start lead screws.
+	* used in high-speed cnc machines and actuators where faster motion is needed compared to single start lead screws.
 	* common in robotics and automated systems for quick linear displacement.
 	* * $$\text{distance}=\text{n}_{starts} \text{pitch} \text{revolutions}$$
 	* ![](../../.gitbook/assets/types5.png)

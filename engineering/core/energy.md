@@ -5,7 +5,7 @@
 ## key terms
 * energy: energy is the capacity to do work. It is a scalar quantity.
     * the formula for energy is $$E=Pt$$
-    * however, energy can also be measured in kilowatt*hours ($$kWh$$), which requires power and time measurements to be in kilowatts and hours to use the equation ($$E[kWh]=P[kW]×t[h]$$)
+    * however, energy can also be measured in kilowatt-hours ($$kWh$$), which requires power and time measurements to be in kilowatts and hours to use the equation ($$E[kWh]=P[kW]×t[h]$$)
     * to convert from $$kWh$$ to $$J$$, multiply by $$3.6×10^6$$.
     * the SI unit for energy is the joule ($$J$$).
 * work: work is done when a force acts on an object and displaces it. It is a vector quantity.
